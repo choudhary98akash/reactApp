@@ -1,0 +1,10 @@
+.component-body-container{
+    padding: 20px;
+}
+.btn-regular{
+    color: white;
+    background-color: black;
+    border-radius: 5px;;
+    box-shadow: 2px 2px 5px black;
+    margin: 10px;
+}
